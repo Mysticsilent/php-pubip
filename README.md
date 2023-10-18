@@ -1,12 +1,13 @@
 ## PHP-pubip
 Small ip lookup docker webserver based on php:7.2-apache.
 
-
-``` Build with included Dockerfile.
+Build with included Dockerfile.
+``` 
 docker build --no-cache --tag mysticsilent/php-pubip:latest .
 ```
 
-``` docker-compose.yaml
+docker-compose.yaml
+``` 
 version: "3"
 services:
   php-pubip:
