@@ -8,4 +8,4 @@ docker build --no-cache --tag mysticsilent/php-pubip:latest .
 
 Credits to HTML5 UP for template.
 Big Picture by HTML5 UP
-[](html5up.net)
+html5up.net
