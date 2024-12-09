@@ -1,5 +1,5 @@
 ## PHP-pubip
-Small docker php based on php:7.2-apache webserver for self-hosting a IP lookup website.
+Small docker php based on php:8.3.14-apache webserver for self-hosting a IP lookup website.
 
 Build with included Dockerfile.
 ``` 
